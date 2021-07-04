@@ -1,0 +1,490 @@
+<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1478003172169">
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="3879922053" ref="tablet>links:tablet>contact:tablet>about-us:tablet>bike-tours:tablet>segway-tours:tablet>bike-rentals:tablet>bike-repair"/>
+      <file name="links.css" crc="428638931" ref="tablet>links"/>
+      <file name="iefonts_links.css" crc="351694691" ref="tablet>links"/>
+      <file name="contact.css" crc="312000038" ref="tablet>contact"/>
+      <file name="iefonts_contact.css" crc="4234089619" ref="tablet>contact"/>
+      <file name="index.css" crc="164274074" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="281027992" ref="tablet>index"/>
+      <file name="about-us.css" crc="445557653" ref="tablet>about-us"/>
+      <file name="bike-tours.css" crc="4235006188" ref="tablet>bike-tours"/>
+      <file name="iefonts_bike-tours.css" crc="3860615153" ref="tablet>bike-tours"/>
+      <file name="segway-tours.css" crc="119448329" ref="tablet>segway-tours"/>
+      <file name="bike-rentals.css" crc="3841830157" ref="tablet>bike-rentals"/>
+      <file name="iefonts_bike-rentals.css" crc="4262916190" ref="tablet>bike-rentals"/>
+      <file name="bike-repair.css" crc="4106863848" ref="tablet>bike-repair"/>
+    </folder>
+    <file name="index.html" crc="241163849" mt="1478003065828" redirect="true"/>
+    <file name="about-us.html" crc="313507389" mt="1463269147845" redirect="true"/>
+    <file name="bike-tours.html" crc="523178350" mt="1478002812662" redirect="true"/>
+    <file name="segway-tours.html" crc="184052752" mt="1470961199925" redirect="true"/>
+    <file name="bike-rentals.html" crc="3939832412" mt="1469224869817" redirect="true"/>
+    <file name="bike-repair.html" crc="3917161683" mt="1469224799486" redirect="true"/>
+    <file name="links.html" crc="4260021989" mt="1469687229222" redirect="true"/>
+    <file name="contact.html" crc="4084580171" mt="1469225036424" redirect="true"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="231392293"/>
+    <file name="bike-repair.css" crc="4045066865" ref="bike-repair"/>
+    <file name="links.css" crc="151495028" ref="links"/>
+    <file name="iefonts_links.css" crc="470518694" ref="links"/>
+    <file name="index.css" crc="3943648322" ref="index"/>
+    <file name="iefonts_index.css" crc="3910830484" ref="index"/>
+    <file name="about-us.css" crc="276833820" ref="about-us"/>
+    <file name="bike-rentals.css" crc="3837037984" ref="bike-rentals"/>
+    <file name="iefonts_bike-rentals.css" crc="3991157259" ref="bike-rentals"/>
+    <file name="bike-tours.css" crc="4122944320" ref="bike-tours"/>
+    <file name="iefonts_bike-tours.css" crc="4126768607" ref="bike-tours"/>
+    <file name="contact.css" crc="225211979" ref="contact"/>
+    <file name="iefonts_contact.css" crc="271343938" ref="contact"/>
+    <file name="master_a-master.css" crc="4222610751" ref="bike-repair:about-us:segway-tours:bike-tours:contact:bike-rentals:links"/>
+    <file name="segway-tours.css" crc="225909433" ref="segway-tours"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="221936890" ref="phone>index:phone>about:phone>bike-tours:phone>bike-rentals:phone>repair:phone>partners:phone>contact:phone>city-tour:index:about-us:bike-rentals:bike-tours:contact:bike-repair:links:phone>country-tour:phone>mtn-tour:phone>road-race:phone>segway-tours:segway-tours:tablet>index:tablet>about-us:tablet>bike-tours:tablet>segway-tours:tablet>bike-rentals:tablet>bike-repair:tablet>links:tablet>contact"/>
+    <file name="museutils.js" crc="3793461109" ref="phone>index:phone>about:phone>bike-tours:phone>bike-rentals:phone>repair:phone>partners:phone>contact:phone>city-tour:index:about-us:bike-rentals:bike-tours:contact:bike-repair:links:phone>country-tour:phone>mtn-tour:phone>road-race:phone>segway-tours:segway-tours:tablet>index:tablet>about-us:tablet>bike-tours:tablet>segway-tours:tablet>bike-rentals:tablet>bike-repair:tablet>links:tablet>contact"/>
+    <file name="jquery.musemenu.js" crc="492415246" ref="phone>index:phone>about:phone>bike-tours:phone>bike-rentals:phone>repair:phone>partners:phone>contact:phone>city-tour:index:about-us:bike-rentals:bike-tours:contact:bike-repair:links:phone>country-tour:phone>mtn-tour:phone>road-race:phone>segway-tours:segway-tours:tablet>index:tablet>about-us:tablet>bike-tours:tablet>segway-tours:tablet>bike-rentals:tablet>bike-repair:tablet>links:tablet>contact"/>
+    <file name="jquery.watch.js" crc="3766403489" ref="phone>index:phone>about:phone>bike-tours:phone>bike-rentals:phone>repair:phone>partners:phone>contact:phone>city-tour:index:bike-tours:contact:phone>country-tour:phone>mtn-tour:phone>road-race:phone>segway-tours:tablet>index:tablet>about-us:tablet>bike-tours:tablet>segway-tours:tablet>bike-rentals:tablet>bike-repair:tablet>links:tablet>contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>about:phone>bike-tours:phone>bike-rentals:phone>repair:phone>partners:phone>contact:phone>city-tour:index:about-us:bike-rentals:bike-tours:contact:bike-repair:links:phone>country-tour:phone>mtn-tour:phone>road-race:phone>segway-tours:segway-tours:tablet>index:tablet>about-us:tablet>bike-tours:tablet>segway-tours:tablet>bike-rentals:tablet>bike-repair:tablet>links:tablet>contact"/>
+    <file name="pie.js" crc="3827607177" ref="phone>about:phone>bike-rentals:index:bike-rentals:bike-tours:contact:tablet>index:tablet>bike-tours:tablet>bike-rentals:tablet>contact:phone>index"/>
+    <file name="webpro.js" crc="4263367560" ref="phone>about:phone>bike-tours:phone>bike-rentals:phone>repair:phone>partners:phone>contact:phone>city-tour:index:bike-rentals:bike-tours:contact:phone>country-tour:phone>mtn-tour:phone>road-race:phone>segway-tours:segway-tours:tablet>index:tablet>bike-tours:tablet>segway-tours:tablet>bike-rentals:tablet>contact"/>
+    <file name="musewpdisclosure.js" crc="513264147" ref="phone>about:phone>bike-tours:phone>bike-rentals:phone>repair:phone>partners:phone>contact:phone>city-tour:phone>country-tour:phone>mtn-tour:phone>road-race:phone>segway-tours"/>
+    <file name="jquery.scrolleffects.js" crc="172766474" ref="phone>about:phone>bike-tours:phone>bike-rentals:phone>repair:phone>partners:phone>contact:phone>city-tour:index:about-us:bike-rentals:bike-tours:bike-repair:phone>country-tour:phone>mtn-tour:phone>road-race:phone>segway-tours:segway-tours:tablet>index:tablet>about-us:tablet>segway-tours:tablet>bike-rentals:tablet>bike-repair"/>
+    <file name="musewpslideshow.js" crc="126372691" ref="phone>bike-rentals:phone>city-tour:index:bike-rentals:bike-tours:contact:phone>country-tour:phone>mtn-tour:phone>road-race:segway-tours:phone>segway-tours:tablet>index:tablet>bike-tours:tablet>segway-tours:tablet>bike-rentals:tablet>contact"/>
+    <file name="jquery.museoverlay.js" crc="3946374898" ref="phone>bike-rentals:phone>city-tour:index:bike-rentals:bike-tours:contact:phone>country-tour:phone>mtn-tour:phone>road-race:segway-tours:phone>segway-tours:tablet>index:tablet>bike-tours:tablet>segway-tours:tablet>bike-rentals:tablet>contact"/>
+    <file name="touchswipe.js" crc="3796284560" ref="phone>bike-rentals:phone>city-tour:index:bike-rentals:bike-tours:contact:phone>country-tour:phone>mtn-tour:phone>road-race:segway-tours:phone>segway-tours:tablet>index:tablet>bike-tours:tablet>segway-tours:tablet>bike-rentals:tablet>contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3843766759" ref="phone>about:index:about-us:bike-tours:contact:phone>contact:tablet>index:tablet>about-us:tablet>bike-tours:tablet>contact:tablet>links:links:tablet>segway-tours"/>
+    <file name="form_check.php" crc="428372696" ref="phone>contact:bike-tours:contact:tablet>bike-tours:tablet>contact"/>
+    <file name="form_throttle.php" crc="419817817" ref="phone>contact:bike-tours:contact:tablet>bike-tours:tablet>contact"/>
+    <file name="form_process.php" crc="3787855599" ref="phone>contact:bike-tours:contact:tablet>bike-tours:tablet>contact"/>
+    <file name="museredirect.js" crc="377126291" ref="index:bike-rentals:bike-tours:contact:segway-tours:about-us:bike-repair:links"/>
+    <file name="form-u7978.php" crc="536330853" ref="bike-tours"/>
+    <file name="form-u13382.php" crc="381373767" ref="contact"/>
+    <file name="form-u13526.php" crc="3777111177" ref="phone>contact"/>
+    <file name="form-u16329.php" crc="4227089815" ref="tablet>bike-tours"/>
+    <file name="form-u17235.php" crc="83410470" ref="tablet>contact"/>
+  </folder>
+  <folder name="images">
+    <file name="stmarys2-crop-u8401.jpg" crc="165075361" ref="phone>index"/>
+    <file name="crank.png" crc="126089843" ref="phone>index:index"/>
+    <file name="chineasebike176x359.jpg" crc="345622403" ref="phone>about"/>
+    <file name="canadian.png" crc="4108676399" ref="phone>about:about-us:tablet>about-us"/>
+    <file name="fb-u9209-fr.png" crc="3761510188" ref="phone>about:about-us:tablet>links:links:tablet>segway-tours:tablet>index:tablet>bike-tours:index:bike-tours"/>
+    <file name="fb-u9209-r-fr.png" crc="4238360453" ref="phone>about:about-us:tablet>links:links:tablet>segway-tours:tablet>index:tablet>bike-tours:index:bike-tours"/>
+    <file name="tripadv-u9212-fr.png" crc="443960670" ref="phone>about:about-us:tablet>links:links:tablet>segway-tours:tablet>index:tablet>bike-tours:index:bike-tours"/>
+    <file name="tripadv-u9212-r-fr.png" crc="3793891097" ref="phone>about:about-us:tablet>links:links:tablet>segway-tours:tablet>index:tablet>bike-tours:index:bike-tours"/>
+    <file name="twitter-u9210-fr.png" crc="3939988236" ref="phone>about:about-us:tablet>links:links:tablet>segway-tours:tablet>index:tablet>bike-tours:index:bike-tours"/>
+    <file name="twitter-u9210-r-fr.png" crc="3983205371" ref="phone>about:about-us:tablet>links:links:tablet>segway-tours:tablet>index:tablet>bike-tours:index:bike-tours"/>
+    <file name="viator-layer 1 copy.png" crc="484079276" ref="phone>about:index:about-us:tablet>index:tablet>about-us:tablet>bike-tours:bike-tours:tablet>links:links:tablet>segway-tours"/>
+    <file name="viator-layer 1 copy 2.png" crc="4016707055" ref="phone>about:index:about-us:tablet>index:tablet>about-us:tablet>bike-tours:bike-tours:tablet>links:links:tablet>segway-tours"/>
+    <file name="u9363-4.png" crc="4047272234" ref="phone>bike-tours"/>
+    <file name="time.png" crc="253661964" ref="phone>bike-tours:bike-tours:tablet>bike-tours"/>
+    <file name="terrain1.png" crc="437197370" ref="phone>bike-tours:bike-tours:tablet>bike-tours"/>
+    <file name="distance.png" crc="3964501453" ref="phone>bike-tours:bike-tours:tablet>bike-tours"/>
+    <file name="difficulty.png" crc="434580219" ref="phone>bike-tours:bike-tours:tablet>bike-tours"/>
+    <file name="info3.png" crc="360437442" ref="phone>bike-tours:bike-tours:tablet>bike-tours"/>
+    <file name="altitude2.png" crc="53022340" ref="phone>bike-tours:bike-tours:tablet>bike-tours"/>
+    <file name="cityicon.png" crc="4243542674" ref="phone>bike-tours:bike-tours:tablet>bike-tours"/>
+    <file name="push.png" crc="438225478" ref="phone>bike-tours:phone>bike-rentals:bike-rentals:bike-tours:tablet>bike-tours:tablet>bike-rentals"/>
+    <file name="terrain3.png" crc="281933368" ref="phone>bike-tours:bike-tours:tablet>bike-tours"/>
+    <file name="mtnicon.png" crc="121070818" ref="phone>bike-tours:bike-tours:tablet>bike-tours"/>
+    <file name="trekkicon.png" crc="3808301098" ref="phone>bike-tours:bike-tours:tablet>bike-tours"/>
+    <file name="terrain2.png" crc="3804889777" ref="phone>bike-tours:bike-tours:tablet>bike-tours"/>
+    <file name="roadicon.png" crc="4018600389" ref="phone>bike-tours:bike-tours:tablet>bike-tours"/>
+    <file name="bikeblue373x217.png" crc="4114085039" ref="phone>bike-rentals"/>
+    <file name="down.png" crc="4234006922" ref="phone>bike-rentals:bike-rentals:phone>city-tour:phone>country-tour:phone>mtn-tour:phone>road-race:tablet>bike-rentals"/>
+    <file name="bikepink372x216.png" crc="480233518" ref="phone>bike-rentals"/>
+    <file name="bikecity365x212.png" crc="30867085" ref="phone>bike-rentals"/>
+    <file name="biketrekk.png" crc="4157660115" ref="bike-rentals"/>
+    <file name="bikemtn.png" crc="3945664166" ref="bike-rentals"/>
+    <file name="bikeroad.png" crc="167372117" ref="bike-rentals"/>
+    <file name="service374x288.jpg" crc="3796828602" ref="phone>repair:tablet>bike-repair"/>
+    <file name="u10346-grad.png" crc="3896646619" ref="phone>partners"/>
+    <file name="u10339-grad.png" crc="4031306366" ref="phone>partners"/>
+    <file name="u10513-4.png" crc="3969170725" ref="phone>city-tour"/>
+    <file name="u10514-5.png" crc="368329578" ref="phone>city-tour"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>city-tour:bike-tours:phone>country-tour:phone>mtn-tour:phone>road-race:segway-tours:index:phone>segway-tours:tablet>index:tablet>bike-tours:tablet>segway-tours"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>city-tour:bike-tours:phone>country-tour:phone>mtn-tour:phone>road-race:segway-tours:phone>segway-tours:tablet>bike-tours:tablet>segway-tours"/>
+    <file name="favicon.ico" crc="3836160906" ref="tablet>index:tablet>links:tablet>segway-tours"/>
+    <file name="u7648.png" crc="4221468324" ref="index"/>
+    <file name="u7648-r.png" crc="3881282066" ref="index"/>
+    <file name="citybanner.jpg" crc="3964850243" ref="index"/>
+    <file name="u828-4.png" crc="383313264" ref="index"/>
+    <file name="cntrybanner-crop-u6250.jpg" crc="3943126296" ref="index"/>
+    <file name="u830-4.png" crc="4201588528" ref="index"/>
+    <file name="mountain-crop-u1790.jpg" crc="4276042818" ref="index"/>
+    <file name="u832-4.png" crc="3832017269" ref="index"/>
+    <file name="rdrace-crop-u1775.jpg" crc="534090543" ref="index"/>
+    <file name="u834-4.png" crc="3867862492" ref="index"/>
+    <file name="u7642.png" crc="4221468324" ref="index"/>
+    <file name="u7642-r.png" crc="3984325936" ref="index"/>
+    <file name="city.jpg" crc="295046285" ref="index:tablet>index"/>
+    <file name="whykrak.jpg" crc="3783224155" ref="index:tablet>index"/>
+    <file name="whyus.jpg" crc="4081730216" ref="index:tablet>index"/>
+    <file name="up.png" crc="488866263" ref="index:bike-rentals:bike-tours:tablet>index:tablet>bike-tours:tablet>bike-rentals"/>
+    <file name="twitter-layer 2 copy.png" crc="104110533" ref="index:tablet>index"/>
+    <file name="twitter-layer 2 copy 2.png" crc="4047363347" ref="index:tablet>index"/>
+    <file name="tripadv-layer 1.png" crc="103205100" ref="index:tablet>index"/>
+    <file name="tripadv-layer 1 copy 3.png" crc="3887457954" ref="index:tablet>index"/>
+    <file name="chineasebike.jpg" crc="3967766990" ref="about-us:tablet>about-us"/>
+    <file name="bikeblue.png" crc="3904214300" ref="bike-rentals"/>
+    <file name="bikepink.png" crc="4043905977" ref="bike-rentals"/>
+    <file name="bikecity.png" crc="77844228" ref="bike-rentals"/>
+    <file name="city!-crop-u1426.jpg" crc="4222292425" ref="bike-tours"/>
+    <file name="mtnn02-crop-u1438.jpg" crc="3961370220" ref="bike-tours"/>
+    <file name="country11-crop-u1432.jpg" crc="3792466321" ref="bike-tours"/>
+    <file name="road02-crop-u1444.jpg" crc="72310702" ref="bike-tours"/>
+    <file name="u1593-4.png" crc="414253982" ref="bike-tours"/>
+    <file name="u3837-5.png" crc="368329578" ref="bike-tours"/>
+    <file name="city01.jpg" crc="3836633668" ref="bike-tours:phone>city-tour"/>
+    <file name="city02.jpg" crc="66886813" ref="bike-tours:phone>city-tour"/>
+    <file name="city03.jpg" crc="375730948" ref="bike-tours:phone>city-tour"/>
+    <file name="city04.jpg" crc="4175084713" ref="bike-tours:phone>city-tour"/>
+    <file name="city05.jpg" crc="444612084" ref="bike-tours:phone>city-tour"/>
+    <file name="city06.jpg" crc="3937292751" ref="bike-tours:phone>city-tour"/>
+    <file name="city07.jpg" crc="484028545" ref="bike-tours:phone>city-tour"/>
+    <file name="city08.jpg" crc="33105530" ref="bike-tours:phone>city-tour"/>
+    <file name="city09.jpg" crc="3920806052" ref="bike-tours:phone>city-tour"/>
+    <file name="city10.jpg" crc="4152253272" ref="bike-tours:phone>city-tour"/>
+    <file name="city11.jpg" crc="349958100" ref="bike-tours:phone>city-tour"/>
+    <file name="city13.jpg" crc="4204904238" ref="bike-tours:phone>city-tour"/>
+    <file name="city14.jpg" crc="3991113970" ref="bike-tours:phone>city-tour"/>
+    <file name="city15.jpg" crc="81611413" ref="bike-tours:phone>city-tour"/>
+    <file name="city16.jpg" crc="494938639" ref="bike-tours:phone>city-tour"/>
+    <file name="city17.jpg" crc="65722570" ref="bike-tours:phone>city-tour"/>
+    <file name="city18.jpg" crc="4124669250" ref="bike-tours:phone>city-tour"/>
+    <file name="city19.jpg" crc="452152782" ref="bike-tours:phone>city-tour"/>
+    <file name="u3841-4.png" crc="397700431" ref="bike-tours"/>
+    <file name="u1602-4.png" crc="4061968141" ref="bike-tours"/>
+    <file name="country01.jpg" crc="388237575" ref="bike-tours:phone>country-tour"/>
+    <file name="country02.jpg" crc="4086142499" ref="bike-tours:phone>country-tour"/>
+    <file name="country03.jpg" crc="200579495" ref="bike-tours:phone>country-tour"/>
+    <file name="country05.jpg" crc="494493441" ref="bike-tours:phone>country-tour"/>
+    <file name="country06.jpg" crc="3990072181" ref="bike-tours:phone>country-tour"/>
+    <file name="country07.jpg" crc="192883312" ref="bike-tours:phone>country-tour"/>
+    <file name="country08.jpg" crc="147244429" ref="bike-tours:phone>country-tour"/>
+    <file name="country09.jpg" crc="464204645" ref="bike-tours:phone>country-tour"/>
+    <file name="country10.jpg" crc="4271555800" ref="bike-tours:phone>country-tour"/>
+    <file name="country11.jpg" crc="148839999" ref="bike-tours:phone>country-tour"/>
+    <file name="country12.jpg" crc="379072152" ref="bike-tours:phone>country-tour"/>
+    <file name="country13.jpg" crc="435395320" ref="bike-tours:phone>country-tour"/>
+    <file name="u1605-4.png" crc="4028336080" ref="bike-tours"/>
+    <file name="u3843-4.png" crc="506239193" ref="bike-tours"/>
+    <file name="mtnn01.jpg" crc="31006368" ref="bike-tours:phone>mtn-tour"/>
+    <file name="mtnn02.jpg" crc="3805894181" ref="bike-tours:phone>mtn-tour"/>
+    <file name="mtnn03.jpg" crc="139646281" ref="bike-tours:phone>mtn-tour"/>
+    <file name="mtnn04.jpg" crc="4136387189" ref="bike-tours:phone>mtn-tour"/>
+    <file name="mtnn05.jpg" crc="4241789850" ref="bike-tours:phone>mtn-tour"/>
+    <file name="mtnn06.jpg" crc="3786697388" ref="bike-tours:phone>mtn-tour"/>
+    <file name="mtnn07.jpg" crc="3788460976" ref="bike-tours:phone>mtn-tour"/>
+    <file name="mtnn08.jpg" crc="310620331" ref="bike-tours:phone>mtn-tour"/>
+    <file name="mtnn09.jpg" crc="4235501965" ref="bike-tours:phone>mtn-tour"/>
+    <file name="mtnn10.jpg" crc="305457942" ref="bike-tours:phone>mtn-tour"/>
+    <file name="u1607-4.png" crc="4067210260" ref="bike-tours"/>
+    <file name="u3845-4.png" crc="4041112296" ref="bike-tours"/>
+    <file name="road01.jpg" crc="149436748" ref="bike-tours:phone>road-race"/>
+    <file name="road02.jpg" crc="3781089694" ref="bike-tours:phone>road-race"/>
+    <file name="road04.jpg" crc="3898961744" ref="bike-tours:phone>road-race"/>
+    <file name="road06.jpg" crc="463941584" ref="bike-tours:phone>road-race"/>
+    <file name="road07.jpg" crc="3862240253" ref="bike-tours:phone>road-race"/>
+    <file name="road08.jpg" crc="161478322" ref="bike-tours:phone>road-race"/>
+    <file name="road09.jpg" crc="3913136540" ref="bike-tours:phone>road-race"/>
+    <file name="u2905-4.png" crc="424499810" ref="bike-tours"/>
+    <file name="u7997-17.png" crc="3841465970" ref="bike-tours"/>
+    <file name="u7997-17-r.png" crc="7780843" ref="bike-tours"/>
+    <file name="u7997-17-m.png" crc="247131607" ref="bike-tours"/>
+    <file name="u7997-17-fs.png" crc="3841465970" ref="bike-tours"/>
+    <file name="fb-144 copy.png" crc="3987650854" ref="bike-tours:contact:tablet>bike-tours:tablet>contact"/>
+    <file name="mickiewiczpopout.jpg" crc="4048717068" ref="bike-tours:contact:tablet>bike-tours:tablet>contact"/>
+    <file name="service.jpg" crc="4041046387" ref="bike-repair"/>
+    <file name="u6669-grad.png" crc="4193173947" ref="links"/>
+    <file name="biketrekk376x218.png" crc="3973173536" ref="phone>bike-rentals"/>
+    <file name="bikemtn379x220.png" crc="3824563541" ref="phone>bike-rentals"/>
+    <file name="bikeroad361x210.png" crc="3861726544" ref="phone>bike-rentals"/>
+    <file name="u11208-6.png" crc="3902478402" ref="phone>country-tour"/>
+    <file name="u11245-6.png" crc="3812841611" ref="phone>country-tour"/>
+    <file name="u11246-5.png" crc="498604586" ref="phone>country-tour"/>
+    <file name="u11530-4.png" crc="478093936" ref="phone>mtn-tour"/>
+    <file name="u11509-8.png" crc="431007824" ref="phone>mtn-tour"/>
+    <file name="u11508-4.png" crc="506239193" ref="phone>mtn-tour"/>
+    <file name="u11619-4.png" crc="3992615810" ref="phone>road-race"/>
+    <file name="u11603-4.png" crc="4041112296" ref="phone>road-race"/>
+    <file name="u11604-7.png" crc="503020828" ref="phone>road-race"/>
+    <file name="u11887-4.png" crc="200579919" ref="phone>segway-tours"/>
+    <file name="u11951-4.png" crc="4167730529" ref="segway-tours"/>
+    <file name="u11955-4.png" crc="342660348" ref="segway-tours"/>
+    <file name="u11970-4.png" crc="3842011100" ref="segway-tours"/>
+    <file name="u11976-4.png" crc="376550537" ref="segway-tours"/>
+    <file name="u11982-4.png" crc="145878202" ref="segway-tours"/>
+    <file name="u11990-4.png" crc="4206434958" ref="segway-tours"/>
+    <file name="u11985-4.png" crc="4250564204" ref="segway-tours"/>
+    <file name="bikefinal.png" crc="4268764729" ref="phone>index:index"/>
+    <file name="segwayfinal153x213.png" crc="388453383" ref="phone>index"/>
+    <file name="logotypefinal.png" crc="374415902" ref="index"/>
+    <file name="bikesegwaytypecompfinal.png" crc="66081551" ref="phone>about:phone>bike-tours:phone>bike-rentals:phone>repair:phone>partners:phone>contact:phone>city-tour:phone>country-tour:phone>mtn-tour:phone>road-race:phone>segway-tours:index:about-us:bike-rentals:bike-tours:contact:bike-repair:links:segway-tours:tablet>index:tablet>about-us:tablet>bike-tours:tablet>segway-tours:tablet>bike-rentals:tablet>bike-repair:tablet>links:tablet>contact"/>
+    <file name="segwayfinal.png" crc="3780015822" ref="index"/>
+    <file name="u506.png" crc="4103146280" ref="index"/>
+    <file name="u506-r.png" crc="4103146280" ref="index"/>
+    <file name="u506-a.png" crc="44276311" ref="index"/>
+    <file name="u522.png" crc="3882067412" ref="index"/>
+    <file name="u522-r.png" crc="3882067412" ref="index"/>
+    <file name="u522-a.png" crc="3823667832" ref="index"/>
+    <file name="u11943.png" crc="4172973782" ref="index"/>
+    <file name="u11943-r.png" crc="4172973782" ref="index"/>
+    <file name="u11943-a.png" crc="3968325237" ref="index"/>
+    <file name="u513.png" crc="4193762370" ref="index"/>
+    <file name="u513-r.png" crc="4193762370" ref="index"/>
+    <file name="u513-a.png" crc="171430233" ref="index"/>
+    <file name="u6361.png" crc="313406768" ref="index"/>
+    <file name="u6361-r.png" crc="313406768" ref="index"/>
+    <file name="u6361-a.png" crc="337058561" ref="index"/>
+    <file name="u6288.png" crc="3861641950" ref="index"/>
+    <file name="u6288-r.png" crc="3861641950" ref="index"/>
+    <file name="u6288-a.png" crc="3912868585" ref="index"/>
+    <file name="u651.png" crc="130470402" ref="index"/>
+    <file name="u651-r.png" crc="130470402" ref="index"/>
+    <file name="u651-a.png" crc="45178806" ref="index"/>
+    <file name="logotypefinal280x136.png" crc="525394943" ref="phone>index"/>
+    <file name="krisbike194x345.jpg" crc="25365118" ref="phone>about"/>
+    <file name="checkboxuncheckedrollover.jpg" crc="519912240" ref="phone>contact:contact:tablet>contact"/>
+    <file name="checkboxuncheckedmousedown.jpg" crc="122200449" ref="phone>contact:contact:tablet>contact"/>
+    <file name="checkboxchecked.jpg" crc="4220967324" ref="phone>contact:contact:tablet>contact"/>
+    <file name="checkboxcheckedrollover.jpg" crc="523498870" ref="phone>contact:contact:tablet>contact"/>
+    <file name="checkboxcheckedmousedown.jpg" crc="3923721351" ref="phone>contact:contact:tablet>contact"/>
+    <file name="u12512-4.png" crc="4068302972" ref="phone>segway-tours"/>
+    <file name="u12513-4.png" crc="110000128" ref="phone>segway-tours"/>
+    <file name="u12514-4.png" crc="4058728229" ref="phone>segway-tours"/>
+    <file name="u12515-4.png" crc="3831626422" ref="phone>segway-tours"/>
+    <file name="u12516-4.png" crc="145878202" ref="phone>segway-tours"/>
+    <file name="u12517-4.png" crc="4206434958" ref="phone>segway-tours"/>
+    <file name="u12518-4.png" crc="4250564204" ref="phone>segway-tours"/>
+    <file name="krisbike.jpg" crc="447819216" ref="about-us:tablet>about-us"/>
+    <file name="checkboxunchecked.jpg" crc="405823397" ref="contact:phone>contact:tablet>contact"/>
+    <file name="u13393-17.png" crc="3974865621" ref="contact"/>
+    <file name="u13393-17-r.png" crc="4090136998" ref="contact"/>
+    <file name="u13393-17-m.png" crc="3947419556" ref="contact"/>
+    <file name="u13393-17-fs.png" crc="3974865621" ref="contact"/>
+    <file name="u13535-17.png" crc="3974865621" ref="phone>contact"/>
+    <file name="u13535-17-r.png" crc="4090136998" ref="phone>contact"/>
+    <file name="u13535-17-m.png" crc="3947419556" ref="phone>contact"/>
+    <file name="u13535-17-fs.png" crc="3974865621" ref="phone>contact"/>
+    <file name="stmarys2.jpg" crc="4024254117" ref="index:tablet>index"/>
+    <file name="city12.jpg" crc="353569676" ref="bike-tours"/>
+    <file name="u15559.png" crc="4221468324" ref="tablet>index"/>
+    <file name="u15559-r.png" crc="3881282066" ref="tablet>index"/>
+    <file name="logotypefinal291x142.png" crc="461936698" ref="tablet>index"/>
+    <file name="fb-u15705-fr.png" crc="49720715" ref="tablet>index:index"/>
+    <file name="fb-u15705-r-fr.png" crc="492487544" ref="tablet>index:index"/>
+    <file name="bikefinal-u15582-fr.png" crc="4001608819" ref="tablet>index"/>
+    <file name="segwayfinal-u15581-fr.png" crc="3880167668" ref="tablet>index"/>
+    <file name="u15684.png" crc="4103146280" ref="tablet>index"/>
+    <file name="u15684-r.png" crc="4103146280" ref="tablet>index"/>
+    <file name="u15684-a.png" crc="44276311" ref="tablet>index"/>
+    <file name="u15666.png" crc="3882067412" ref="tablet>index"/>
+    <file name="u15666-r.png" crc="3882067412" ref="tablet>index"/>
+    <file name="u15666-a.png" crc="3823667832" ref="tablet>index"/>
+    <file name="u15679.png" crc="4172973782" ref="tablet>index"/>
+    <file name="u15679-r.png" crc="4172973782" ref="tablet>index"/>
+    <file name="u15679-a.png" crc="3968325237" ref="tablet>index"/>
+    <file name="u15693.png" crc="4193762370" ref="tablet>index"/>
+    <file name="u15693-r.png" crc="4193762370" ref="tablet>index"/>
+    <file name="u15693-a.png" crc="171430233" ref="tablet>index"/>
+    <file name="u15650.png" crc="313406768" ref="tablet>index"/>
+    <file name="u15650-r.png" crc="313406768" ref="tablet>index"/>
+    <file name="u15650-a.png" crc="337058561" ref="tablet>index"/>
+    <file name="u15658.png" crc="3861641950" ref="tablet>index"/>
+    <file name="u15658-r.png" crc="3861641950" ref="tablet>index"/>
+    <file name="u15658-a.png" crc="3912868585" ref="tablet>index"/>
+    <file name="u15673.png" crc="130470402" ref="tablet>index"/>
+    <file name="u15673-r.png" crc="130470402" ref="tablet>index"/>
+    <file name="u15673-a.png" crc="45178806" ref="tablet>index"/>
+    <file name="citybanner682x88.jpg" crc="3950216372" ref="tablet>index"/>
+    <file name="u15577-4.png" crc="383313264" ref="tablet>index"/>
+    <file name="cntrybanner-crop-u15573.jpg" crc="4172803961" ref="tablet>index"/>
+    <file name="u15578-4.png" crc="457711306" ref="tablet>index"/>
+    <file name="mountain-crop-u15571.jpg" crc="343018236" ref="tablet>index"/>
+    <file name="u15579-4.png" crc="4067811519" ref="tablet>index"/>
+    <file name="rdrace-crop-u15569.jpg" crc="41660938" ref="tablet>index"/>
+    <file name="u15580-4.png" crc="47900083" ref="tablet>index"/>
+    <file name="u15557.png" crc="4221468324" ref="tablet>index"/>
+    <file name="u15557-r.png" crc="3984325936" ref="tablet>index"/>
+    <file name="u15428-8.png" crc="3795169030" ref="tablet>index"/>
+    <file name="u15432-4.png" crc="428004640" ref="tablet>index"/>
+    <file name="u15436-4.png" crc="4174633359" ref="tablet>index"/>
+    <file name="fb-u15551-fr.png" crc="72889762" ref="tablet>index:index"/>
+    <file name="fb-u15551-r-fr.png" crc="4207890460" ref="tablet>index:index"/>
+    <file name="city!-crop-u15909.jpg" crc="322597227" ref="tablet>bike-tours"/>
+    <file name="mtnn02-crop-u15846.jpg" crc="426209666" ref="tablet>bike-tours"/>
+    <file name="country11-crop-u15873.jpg" crc="25697493" ref="tablet>bike-tours"/>
+    <file name="road02-crop-u15918.jpg" crc="73279523" ref="tablet>bike-tours"/>
+    <file name="u16257-4.png" crc="3809034791" ref="tablet>bike-tours"/>
+    <file name="u16270-5.png" crc="368329578" ref="tablet>bike-tours"/>
+    <file name="city01719x351.jpg" crc="4156952893" ref="tablet>bike-tours"/>
+    <file name="city02719x351.jpg" crc="216197387" ref="tablet>bike-tours"/>
+    <file name="city03719x351.jpg" crc="4150195786" ref="tablet>bike-tours"/>
+    <file name="city04719x351.jpg" crc="3940931428" ref="tablet>bike-tours"/>
+    <file name="city05719x351.jpg" crc="209552147" ref="tablet>bike-tours"/>
+    <file name="city06719x351.jpg" crc="4198819373" ref="tablet>bike-tours"/>
+    <file name="city07719x351.jpg" crc="3989389432" ref="tablet>bike-tours"/>
+    <file name="city08719x351.jpg" crc="4132654305" ref="tablet>bike-tours"/>
+    <file name="city09719x351.jpg" crc="4178852112" ref="tablet>bike-tours"/>
+    <file name="city10719x351.jpg" crc="4159186810" ref="tablet>bike-tours"/>
+    <file name="city11719x351.jpg" crc="206392780" ref="tablet>bike-tours"/>
+    <file name="city12719x351.jpg" crc="298975307" ref="tablet>bike-tours"/>
+    <file name="city13719x351.jpg" crc="4032664425" ref="tablet>bike-tours"/>
+    <file name="city14719x351.jpg" crc="13694198" ref="tablet>bike-tours"/>
+    <file name="city15719x351.jpg" crc="3995751356" ref="tablet>bike-tours"/>
+    <file name="city16719x351.jpg" crc="535114511" ref="tablet>bike-tours"/>
+    <file name="city17719x351.jpg" crc="145788706" ref="tablet>bike-tours"/>
+    <file name="city18719x351.jpg" crc="81738688" ref="tablet>bike-tours"/>
+    <file name="city19719x351.jpg" crc="3844888224" ref="tablet>bike-tours"/>
+    <file name="u16258-4.png" crc="81660313" ref="tablet>bike-tours"/>
+    <file name="u16272-4.png" crc="397700431" ref="tablet>bike-tours"/>
+    <file name="country01721x352.jpg" crc="3982354496" ref="tablet>bike-tours"/>
+    <file name="country02721x352.jpg" crc="4082385315" ref="tablet>bike-tours"/>
+    <file name="country03721x352.jpg" crc="4113316712" ref="tablet>bike-tours"/>
+    <file name="country05721x352.jpg" crc="25998591" ref="tablet>bike-tours"/>
+    <file name="country06721x352.jpg" crc="3971396513" ref="tablet>bike-tours"/>
+    <file name="country07721x352.jpg" crc="3956025438" ref="tablet>bike-tours"/>
+    <file name="country08721x352.jpg" crc="314608463" ref="tablet>bike-tours"/>
+    <file name="country09721x352.jpg" crc="27869106" ref="tablet>bike-tours"/>
+    <file name="country10721x352.jpg" crc="474334140" ref="tablet>bike-tours"/>
+    <file name="country11721x352.jpg" crc="3900314368" ref="tablet>bike-tours"/>
+    <file name="country12721x352.jpg" crc="340207793" ref="tablet>bike-tours"/>
+    <file name="country13721x352.jpg" crc="200623204" ref="tablet>bike-tours"/>
+    <file name="u16259-4.png" crc="3871870845" ref="tablet>bike-tours"/>
+    <file name="u16274-4.png" crc="506239193" ref="tablet>bike-tours"/>
+    <file name="mtnn01718x351.jpg" crc="4181489975" ref="tablet>bike-tours"/>
+    <file name="mtnn02718x351.jpg" crc="141584137" ref="tablet>bike-tours"/>
+    <file name="mtnn03718x351.jpg" crc="381058051" ref="tablet>bike-tours"/>
+    <file name="mtnn04718x351.jpg" crc="4015085317" ref="tablet>bike-tours"/>
+    <file name="mtnn05718x351.jpg" crc="3838401790" ref="tablet>bike-tours"/>
+    <file name="mtnn06718x351.jpg" crc="297283858" ref="tablet>bike-tours"/>
+    <file name="mtnn07718x351.jpg" crc="4079422482" ref="tablet>bike-tours"/>
+    <file name="mtnn08718x351.jpg" crc="245273048" ref="tablet>bike-tours"/>
+    <file name="mtnn09718x351.jpg" crc="58967578" ref="tablet>bike-tours"/>
+    <file name="mtnn10718x351.jpg" crc="4024089356" ref="tablet>bike-tours"/>
+    <file name="u16260-4.png" crc="4067210260" ref="tablet>bike-tours"/>
+    <file name="u16276-4.png" crc="4041112296" ref="tablet>bike-tours"/>
+    <file name="road01718x351.jpg" crc="4112742288" ref="tablet>bike-tours"/>
+    <file name="road02718x351.jpg" crc="390446818" ref="tablet>bike-tours"/>
+    <file name="road04718x351.jpg" crc="3932095457" ref="tablet>bike-tours"/>
+    <file name="road06718x351.jpg" crc="4018662111" ref="tablet>bike-tours"/>
+    <file name="road07718x351.jpg" crc="230732465" ref="tablet>bike-tours"/>
+    <file name="road08718x351.jpg" crc="113698379" ref="tablet>bike-tours"/>
+    <file name="road09718x351.jpg" crc="3886327156" ref="tablet>bike-tours"/>
+    <file name="u16269-4.png" crc="424499810" ref="tablet>bike-tours"/>
+    <file name="u16336-17.png" crc="3841465970" ref="tablet>bike-tours"/>
+    <file name="u16336-17-r.png" crc="7780843" ref="tablet>bike-tours"/>
+    <file name="u16336-17-m.png" crc="247131607" ref="tablet>bike-tours"/>
+    <file name="u16336-17-fs.png" crc="3841465970" ref="tablet>bike-tours"/>
+    <file name="fb-u16364-r-fr.png" crc="11508242" ref="tablet>bike-tours:tablet>contact:contact:bike-tours"/>
+    <file name="u16635-4.png" crc="4068302972" ref="tablet>segway-tours"/>
+    <file name="u16636-4.png" crc="110000128" ref="tablet>segway-tours"/>
+    <file name="u16637-4.png" crc="4058728229" ref="tablet>segway-tours"/>
+    <file name="u16638-4.png" crc="3831626422" ref="tablet>segway-tours"/>
+    <file name="u16639-4.png" crc="145878202" ref="tablet>segway-tours"/>
+    <file name="u16640-4.png" crc="4206434958" ref="tablet>segway-tours"/>
+    <file name="u16641-4.png" crc="4250564204" ref="tablet>segway-tours"/>
+    <file name="bikeblue501x290.png" crc="529398978" ref="tablet>bike-rentals"/>
+    <file name="bikepink475x276.png" crc="386561287" ref="tablet>bike-rentals"/>
+    <file name="bikecity492x285.png" crc="3961687868" ref="tablet>bike-rentals"/>
+    <file name="biketrekk466x271.png" crc="4232531197" ref="tablet>bike-rentals"/>
+    <file name="bikemtn490x285.png" crc="4142717404" ref="tablet>bike-rentals"/>
+    <file name="bikeroad474x275.png" crc="3926366986" ref="tablet>bike-rentals"/>
+    <file name="u17210-grad.png" crc="332662616" ref="tablet>links"/>
+    <file name="u17211-grad.png" crc="29703964" ref="tablet>links"/>
+    <file name="u17263-17.png" crc="3974865621" ref="tablet>contact"/>
+    <file name="u17263-17-r.png" crc="4090136998" ref="tablet>contact"/>
+    <file name="u17263-17-m.png" crc="3947419556" ref="tablet>contact"/>
+    <file name="u17263-17-fs.png" crc="3974865621" ref="tablet>contact"/>
+    <file name="fb-u15638-fr.png" crc="3761510188" ref="tablet>about-us"/>
+    <file name="fb-u15638-r-fr.png" crc="4238360453" ref="tablet>about-us"/>
+    <file name="twitter-u15639-fr.png" crc="3939988236" ref="tablet>about-us"/>
+    <file name="twitter-u15639-r-fr.png" crc="3983205371" ref="tablet>about-us"/>
+    <file name="tripadv-u15641-fr.png" crc="443960670" ref="tablet>about-us"/>
+    <file name="tripadv-u15641-r-fr.png" crc="3793891097" ref="tablet>about-us"/>
+    <file name="u17406-4.png" crc="3822179664" ref="segway-tours"/>
+    <file name="segway01.jpg" crc="498882797" ref="segway-tours"/>
+    <file name="segway02.jpg" crc="338792016" ref="segway-tours"/>
+    <file name="segway03.jpg" crc="3912162052" ref="segway-tours"/>
+    <file name="segway04.jpg" crc="134098262" ref="segway-tours"/>
+    <file name="segway05.jpg" crc="3814744123" ref="segway-tours"/>
+    <file name="segway06.jpg" crc="4230107863" ref="segway-tours"/>
+    <file name="segway07.jpg" crc="4106474119" ref="segway-tours"/>
+    <file name="segway08.jpg" crc="354932502" ref="segway-tours"/>
+    <file name="segdescrip.jpg" crc="3833002397" ref="segway-tours:phone>segway-tours:tablet>segway-tours"/>
+    <file name="segway01455x222.jpg" crc="271032518" ref="phone>segway-tours"/>
+    <file name="segway02455x222.jpg" crc="60534348" ref="phone>segway-tours"/>
+    <file name="segway03455x222.jpg" crc="4208068311" ref="phone>segway-tours"/>
+    <file name="segway04455x222.jpg" crc="534312651" ref="phone>segway-tours"/>
+    <file name="segway05455x222.jpg" crc="4089657396" ref="phone>segway-tours"/>
+    <file name="segway06455x222.jpg" crc="280230263" ref="phone>segway-tours"/>
+    <file name="segway07455x222.jpg" crc="4218497468" ref="phone>segway-tours"/>
+    <file name="segway08455x222.jpg" crc="4290729708" ref="phone>segway-tours"/>
+    <file name="down2.png" crc="4234006922" ref="tablet>segway-tours:segway-tours"/>
+    <file name="u18345-4.png" crc="3822179664" ref="phone>segway-tours"/>
+    <file name="segway01758x371.jpg" crc="4131335013" ref="tablet>segway-tours"/>
+    <file name="segway02758x371.jpg" crc="4119616546" ref="tablet>segway-tours"/>
+    <file name="segway03758x371.jpg" crc="76663315" ref="tablet>segway-tours"/>
+    <file name="segway04758x371.jpg" crc="4070362376" ref="tablet>segway-tours"/>
+    <file name="segway05758x371.jpg" crc="3861543004" ref="tablet>segway-tours"/>
+    <file name="segway06758x371.jpg" crc="494791121" ref="tablet>segway-tours"/>
+    <file name="segway07758x371.jpg" crc="4239997978" ref="tablet>segway-tours"/>
+    <file name="segway08758x371.jpg" crc="3817989757" ref="tablet>segway-tours"/>
+    <file name="u18261-4.png" crc="3822179664" ref="tablet>segway-tours"/>
+    <file name="city17719x351-crop-u17911.jpg" crc="3961617186" ref="bike-tours"/>
+    <file name="u10515-10.png" crc="167025392" ref="phone>city-tour"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="527077066" ref="phone>bike-rentals:phone>repair:phone>partners:phone>about:phone>contact:phone>bike-tours:phone>city-tour:phone>mtn-tour:phone>country-tour:phone>road-race:phone>segway-tours"/>
+      <file name="bike-rentals.css" crc="3908643076" ref="phone>bike-rentals"/>
+      <file name="iefonts_bike-rentals.css" crc="425037137" ref="phone>bike-rentals"/>
+      <file name="repair.css" crc="3852822604" ref="phone>repair"/>
+      <file name="iefonts_repair.css" crc="308940870" ref="phone>repair"/>
+      <file name="partners.css" crc="4286556597" ref="phone>partners"/>
+      <file name="iefonts_partners.css" crc="4255938778" ref="phone>partners"/>
+      <file name="index.css" crc="391091974" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="4273739646" ref="phone>index"/>
+      <file name="about.css" crc="346590418" ref="phone>about"/>
+      <file name="iefonts_about.css" crc="324779416" ref="phone>about"/>
+      <file name="contact.css" crc="4131435493" ref="phone>contact"/>
+      <file name="iefonts_contact.css" crc="4236431912" ref="phone>contact"/>
+      <file name="bike-tours.css" crc="218227710" ref="phone>bike-tours"/>
+      <file name="iefonts_bike-tours.css" crc="3843631498" ref="phone>bike-tours"/>
+      <file name="city-tour.css" crc="3895716577" ref="phone>city-tour"/>
+      <file name="iefonts_city-tour.css" crc="4217442132" ref="phone>city-tour"/>
+      <file name="mtn-tour.css" crc="5018785" ref="phone>mtn-tour"/>
+      <file name="iefonts_mtn-tour.css" crc="4217442132" ref="phone>mtn-tour"/>
+      <file name="country-tour.css" crc="3769625077" ref="phone>country-tour"/>
+      <file name="iefonts_country-tour.css" crc="4217442132" ref="phone>country-tour"/>
+      <file name="road-race.css" crc="242992329" ref="phone>road-race"/>
+      <file name="iefonts_road-race.css" crc="4217442132" ref="phone>road-race"/>
+      <file name="segway-tours.css" crc="508563157" ref="phone>segway-tours"/>
+      <file name="iefonts_segway-tours.css" crc="4102929873" ref="phone>segway-tours"/>
+    </folder>
+    <file name="index.html" crc="3797446320" mt="1470968452287" redirect="true"/>
+    <file name="about.html" crc="450091660" mt="1478002821822" redirect="true"/>
+    <file name="bike-tours.html" crc="56769257" mt="1478002821822" redirect="true"/>
+    <file name="bike-rentals.html" crc="263991767" mt="1478002821822" redirect="true"/>
+    <file name="repair.html" crc="4180216289" mt="1478002821822" redirect="true"/>
+    <file name="partners.html" crc="347225928" mt="1478002821822" redirect="true"/>
+    <file name="contact.html" crc="202903726" mt="1478002821822" redirect="true"/>
+    <file name="city-tour.html" crc="374734158" mt="1478002874858" redirect="true"/>
+    <file name="country-tour.html" crc="3918653691" mt="1478002821822" redirect="true"/>
+    <file name="mtn-tour.html" crc="167729719" mt="1478002821822" redirect="true"/>
+    <file name="road-race.html" crc="3890166965" mt="1478002821822" redirect="true"/>
+    <file name="segway-tours.html" crc="121960054" mt="1478002821822" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4093580529" mt="1478003012949" redirect="true"/>
+  <file name="about-us.html" crc="4118741841" mt="1463267353433" redirect="true"/>
+  <file name="bike-rentals.html" crc="3979650577" mt="1463267353433" redirect="true"/>
+  <file name="bike-tours.html" crc="179092372" mt="1478002734582" redirect="true"/>
+  <file name="contact.html" crc="184643967" mt="1469224283637" redirect="true"/>
+  <file name="bike-repair.html" crc="3785344419" mt="1463267353433" redirect="true"/>
+  <file name="links.html" crc="4095723328" mt="1469687308749" redirect="true"/>
+  <file name="segway-tours.html" crc="4016169454" mt="1470960388895" redirect="true"/>
+</manifest>
